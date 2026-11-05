@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hamka 👋
 
-<!--
-**hamka-irsal/hamka-irsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Developer interested in
+Backend Development, Mobile Development,
+and AI Automation.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Golang
+- Laravel
+- React Native
+- MySQL
+- REST API
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Growdesa - Village Digital Service Platform
+- REST API Projects
+- Mobile Application Projects
+
+## Contact
+- GitHub: https://github.com/USERNAME
+- LinkedIn: [hamka irsal]
+- Email: [hamkairsal04@gmail.com]
